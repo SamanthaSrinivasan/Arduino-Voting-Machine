@@ -1,9 +1,10 @@
 # Arduino-Voting-Machine
 
 ### Arduino Voting Machine is implemented using Arduino Technology using Tinkercad for easy and virtual stimulation. 
-It Provides a reliable design for voting.This system avoids rigging of votes and saves time and human effort.
+### It Provides a reliable design for voting.This system avoids rigging of votes and saves time and human effort.
 
 ### Components:
+
 1)Arduino Uno R3
 The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino.cc . The board is equipped with sets of 14 digital and 6 analog input/output pins that may be interfaced to various expansion boards and other circuits. It is programmable with the Arduino IDE  via a type B USB cable.It can be powered by the USB cable or by an external 9-volt battery.
 
