@@ -1,6 +1,6 @@
 # Arduino-Voting-Machine
 
-### Arduino Voting Machine is implemented using Arduino Technology using Tinkercad for easy and virtual stimulation. 
+### Implemented using Arduino Technology using Tinkercad for easy and virtual stimulation. 
 ### It Provides a reliable design for voting.This system avoids rigging of votes and saves time and human effort.
 
 ### Components:
